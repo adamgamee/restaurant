@@ -248,7 +248,7 @@ footer{
 
 /* RESPONSIVE */
 
-@media (max-width:580px){
+@media (max-width:550px){
     .nav a{
         display: none;
     }
@@ -274,7 +274,6 @@ footer{
     .healthy{
         flex-direction: column;
         gap: 20px;
-        padding:20px;
        
         height: auto;
         
