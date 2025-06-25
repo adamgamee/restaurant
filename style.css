@@ -233,6 +233,19 @@ font{
 
 }
 
+
+footer{
+    height: 80px;
+    background-color: rgb(5, 28, 28);
+    color: white;
+    display: flex;
+    
+    align-items: center;
+    justify-content: center;
+   
+
+}
+
 /* RESPONSIVE */
 
 @media (max-width:650px){
