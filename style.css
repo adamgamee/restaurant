@@ -274,6 +274,7 @@ footer{
     .healthy{
         flex-direction: column;
         gap: 20px;
+        padding:30px;
        
         height: auto;
         
