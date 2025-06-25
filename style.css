@@ -248,7 +248,7 @@ footer{
 
 /* RESPONSIVE */
 
-@media (max-width:768px){
+@media (max-width:650px){
     .nav a{
         display: none;
     }
@@ -277,17 +277,22 @@ footer{
        
         height: auto;
         
+        width: 100vw;
+        padding: 20px;
+        
     }
+    
+    
     .healthy .text h1{
         font-size: 30px;
         
-    }
-    .healthy .text{
-        padding:20px
-        width:auto;
     }
     .healthyimg{
         margin-top: 30px;
     
     }
+    
 }
+
+
+        
