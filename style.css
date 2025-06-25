@@ -284,6 +284,7 @@ footer{
     }
     .healthy .text{
         padding:20px
+        width:90vw;
     }
     .healthyimg{
         margin-top: 30px;
