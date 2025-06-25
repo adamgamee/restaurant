@@ -249,6 +249,9 @@ footer{
 /* RESPONSIVE */
 
 @media (max-width:650px){
+    header{
+        width: 100vw;
+    }
     .nav a{
         display: none;
     }
@@ -256,7 +259,11 @@ footer{
     .back .text h1{
         font-size: 30px;
     }
+    .back{
+        width: 100vw;
+    }
     .about{
+        width: 100vw;
         height: auto;
         padding-bottom: 30px;
     }
@@ -279,9 +286,25 @@ footer{
         
         width: 100vw;
         padding: 20px;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        
+        
+    }
+    .healthy .price{
+        width: 100vw;
+      
+    }
+    .healthy .price .text{
+        width: 100vw;
+        
         
     }
     
+    .healthy .text .total{
+        align-items: center;
+    }
     
     .healthy .text h1{
         font-size: 30px;
@@ -291,8 +314,11 @@ footer{
         margin-top: 30px;
     
     }
+    .healthy .spns{
+        width: 100px;
+    }
+    footer{
+        width: 100vw;
+    }
     
 }
-
-
-        
